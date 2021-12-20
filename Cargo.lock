@@ -28,7 +28,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "dev-tools"
+name = "fc-tools-snowflakes"
 version = "0.1.0"
 dependencies = [
  "chrono",
