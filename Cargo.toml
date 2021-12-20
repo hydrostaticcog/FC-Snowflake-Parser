@@ -1,6 +1,6 @@
 [package]
 name = "fc-tools-snowflakes"
-author = "hydrostaticcog <hydro@hydrostaticcog.me>"
+authors = ["hydrostaticcog <hydro@hydrostaticcog.me>"]
 version = "0.1.0"
 edition = "2021"
 
