@@ -38,7 +38,7 @@ fn parse(snowflake: u128) {
     println!("Internal Counter - {}", internal_counter);
 
     // Finds the API version
-    let api_version = snowflake >> 32 & 0b11111111;
+    let api_version = snowflake >> 34 & 0b11111111;
     println!("API Version - {}", api_version);
 
     // Finds unset bits
