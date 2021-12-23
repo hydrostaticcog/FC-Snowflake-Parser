@@ -11,6 +11,7 @@ enum ModelType {
     MESSAGE = 3,
     ROLE = 4,
     InternalUse = 5,
+    DmChannel = 6,
 }
 
 fn parse(snowflake: u128) {
