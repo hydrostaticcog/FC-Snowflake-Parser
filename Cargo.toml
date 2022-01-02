@@ -3,6 +3,19 @@ name = "fc-tools-snowflakes"
 authors = ["hydrostaticcog <hydro@hydrostaticcog.me>"]
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+description = "Developer tools for FerrisChat (snowflake parser)"
+homepage = "https://ferris.chat"
+documentation = "https://docs.rs/fc-tools-snowflakes"
+repository = "https://github.com/hydrostaticcog/FC-Tools-Snowflakes"
+readme = "README.md"
+include = [
+    "**/*.rs",
+    "Cargo.toml",
+    "/.gitignore",
+    "/LICENSE",
+    "/README.md"
+]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
