@@ -7,7 +7,7 @@ license = "MIT"
 description = "Developer tools for FerrisChat (snowflake parser)"
 homepage = "https://ferris.chat"
 documentation = "https://docs.rs/fc-tools-snowflakes"
-repository = "https://github.com/hydrostaticcog/FC-Tools-Snowflakes"
+repository = "https://github.com/hydrostaticcog/FC-Snowflake-Parser"
 readme = "README.md"
 include = [
     "**/*.rs",
